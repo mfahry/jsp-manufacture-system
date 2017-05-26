@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/mfahry/Dropbox/Projects/Manufacturing/web/viewCostProduction.jsp</file>
+            <file>file:/Users/mfahry/Dropbox/Projects/Manufacturing/web/viewProduct.jsp</file>
+            <file>file:/Users/mfahry/Dropbox/Projects/Manufacturing/src/java/controller/ProductionController.java</file>
+            <file>file:/Users/mfahry/Dropbox/Projects/Manufacturing/web/login.jsp</file>
+            <file>file:/Users/mfahry/Dropbox/Projects/Manufacturing/web/template_sidebar.jsp</file>
+            <file>file:/Users/mfahry/Dropbox/Projects/Manufacturing/src/java/dao/CostProductionDAO.java</file>
+            <file>file:/Users/mfahry/Dropbox/Projects/Manufacturing/src/java/controller/FinanceController.java</file>
+            <file>file:/Users/mfahry/Dropbox/Projects/Manufacturing/src/java/controller/DashboardController.java</file>
+            <file>file:/Users/mfahry/Dropbox/Projects/Manufacturing/src/java/controller/LoginServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
